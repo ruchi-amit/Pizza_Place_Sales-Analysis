@@ -10,11 +10,14 @@ The pizza place needs to analyze sales performance over the past year to make in
 To get insights from this project we have used various methods which are –
 
 **Data sources**:
+
 Local data sources : Excel
 https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 
 **Data Cleaning:**
+
 •Duplicated entries are removed.
+
 •Addressing missing values and guaranteeing data type compatibility.
 
 **Exploratory data analysis (EDA):**
@@ -28,13 +31,17 @@ https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 •Adding up the total revenue generated throughout the year/Month.
 
 **Menu performance:**
+
 •Analysis of underperforming pizzas based on the lowest orders count.
+
 •To determine profitability, calculate the average revenue per pizza type.
 
 **Data Visualization:**
+
 •Created meaningful dashboards using Pivot tables for visual insights into order peak hours, maxim order count day, season wise pizza order and total revenue.
 
 **Promotional Ideas:**
+
 •Based on performance analysis, identify any things that could be removed or promoted.
 
 # Conclusion: 
