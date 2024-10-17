@@ -18,10 +18,13 @@ https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 •Addressing missing values and guaranteeing data type compatibility.
 
 **Exploratory data analysis (EDA):**
+
 •Customer Analysis: Analyzing the count of orders per day to determine peak hours and high-traffic days.
+
 •Order Trends: By counting the number of pizzas ordered in a single transaction and will get bestsellers by tracking the most popular pizza types.
 
 **Revenue analysis:**
+
 •Adding up the total revenue generated throughout the year/Month.
 
 **Menu performance:**
