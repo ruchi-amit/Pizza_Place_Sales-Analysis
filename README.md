@@ -1,13 +1,14 @@
 # Pizza_Place_Sales-Analysis
 The management plans to improve operations by analyzing customer behavior and order data, identifying patterns, and making informed decisions about menu optimization and marketing strategies.
 
-Problem: 
+**Problem:** 
 The management intends to achieve this goal by conducting a comprehensive analysis of customer behavior and order data to identify key patterns and opportunities for improvement.
-Background: 
+**Background:** 
 The pizza place needs to analyze sales performance over the past year to make informed decisions about operations, menu optimization, and marketing strategies, identifying customer behavior, peak sales periods, and seasonal trends.
 
 # Methodology:
 To get insights from this project we have used various methods which are –
+
 **Data sources**:
 Local data sources : Excel
 https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
